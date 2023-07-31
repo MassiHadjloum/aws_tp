@@ -1,4 +1,5 @@
-<img width="647" alt="shéma" src="https://github.com/MassiHadjloum/aws_tp/assets/80093922/dcf56096-871a-4bc1-b0f8-ca57bf3e8f03">
+
+![Capture d’écran 2023-07-07 à 17 04 10](https://github.com/MassiHadjloum/aws_tp/assets/80093922/5908c84f-3676-4d21-8689-b589dfafc35a)
 
 TP réalisé par: 
 
